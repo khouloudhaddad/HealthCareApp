@@ -39,4 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - https://ui.shadcn.com/docs/installation/next
 - https://www.npmjs.com/package/react-phone-number-input
+- npm i node-appwrite
 
